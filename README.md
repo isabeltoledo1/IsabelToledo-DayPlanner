@@ -10,15 +10,6 @@ A simple calendar app for scheduling your work day. The time block will appear a
 
 
 
-### Table of Contents
- 
-* [Deployed Link](#Deployed-Link)
-
-* [Installation](#Installation)
-    
-
-
-* [Technologies](#Technologies-Used)
  
   
 ### Deployed Link
