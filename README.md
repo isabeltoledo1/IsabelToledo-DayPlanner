@@ -3,9 +3,9 @@
 
 
 ### Desription
-```
+
 A simple calendar app for scheduling your work day. The user may click on any of the time blocks, add a note that will persist in local storage meaning the note will remain even after refreshing their browser. When the item is completed, they may delete their note by clicking the delete icon.   
-```
+
 
 
 ### Table of Contents
@@ -21,7 +21,7 @@ A simple calendar app for scheduling your work day. The user may click on any of
   
 ### Deployed Link
     
-   
+ https://isabeltoledo1.github.io/IsabelToledo-DayPlanner/  
 
 
 ### Installation
@@ -35,4 +35,4 @@ No instalation needed.
  - JavaScript (with the use of moment.js)
  - JQuery
 
-![](homenotetaker.png)
+
